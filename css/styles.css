@@ -5,3 +5,9 @@ body {
 img {
     height: 300px;
 }
+div {
+    float: left;   
+}
+.video-container{
+    width:100%;   
+}
